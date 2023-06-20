@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio-ravitomer/static/css/main.5204d7aa.css",
+    "main.js": "/portfolio-ravitomer/static/js/main.23ffaf76.js",
+    "static/js/787.eae6f066.chunk.js": "/portfolio-ravitomer/static/js/787.eae6f066.chunk.js",
+    "static/media/4.png": "/portfolio-ravitomer/static/media/4.6ef4ded736ea1dd74f45.png",
+    "static/media/1.png": "/portfolio-ravitomer/static/media/1.9ee798afc686c5c3d73a.png",
+    "static/media/2.png": "/portfolio-ravitomer/static/media/2.aaddcb30a0126fccc427.png",
+    "static/media/6.png": "/portfolio-ravitomer/static/media/6.cc001122369af35862c4.png",
+    "static/media/HD  .jpg": "/portfolio-ravitomer/static/media/HD  .a36ebd52fc5de2775c6b.jpg",
+    "index.html": "/portfolio-ravitomer/index.html",
+    "main.5204d7aa.css.map": "/portfolio-ravitomer/static/css/main.5204d7aa.css.map",
+    "main.23ffaf76.js.map": "/portfolio-ravitomer/static/js/main.23ffaf76.js.map",
+    "787.eae6f066.chunk.js.map": "/portfolio-ravitomer/static/js/787.eae6f066.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5204d7aa.css",
+    "static/js/main.23ffaf76.js"
+  ]
+}
