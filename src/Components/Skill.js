@@ -2,7 +2,7 @@ import React from 'react'
 // import pdf from '../image/Ravi tomer (2).pdf'
 // import { Link } from 'react-router-dom'
 export default function Skill() {
-    const skill = [`1 CONCEPT`,'2 DESIGN','3 CODING','4 DEBUGGING','5 LAUNCH']
+    const skill = [`1 CONCEPT`,'2 DESIGN','3 CODING','4 DEBUGGING','5 LAUNCH','6 REPEAT']
   return (
     <div>
  <hr /><br /><strong style={{fontFamily:'-moz-initial,',letterSpacing:'4px'}}><h3><u>MY DEVELOPMENT  PROCESS</u></h3></strong><br /><hr />
